@@ -62,7 +62,7 @@
 }
 
 body {
-  font-weight: 1000;
+  font-weight: 900;
   font-size: var(--body-font-size-m);
   margin: 0;
   font-family: var(--body-font-family);
